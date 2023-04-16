@@ -1,0 +1,6 @@
+.idea/
+target/**
+src/test/resources/binary/**
+src/test/resources/screenshots/**
+src/test/resources/extentreports/**
+browser_exes/
